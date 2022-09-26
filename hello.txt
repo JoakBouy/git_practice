@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Hello, there
-=======
-Hello ! ! World
->>>>>>> origin/kwizeraomer_branch
-=======
-Hello ! ! World
->>>>>>> origin/livia_branch
+"Hello ! ! World" 
